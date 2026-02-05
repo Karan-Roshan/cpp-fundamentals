@@ -20,7 +20,6 @@ CPP-Fundamentals
 - Basic Programs
 - For Loop (Loops)
 - Functions
-- Game
 - If Else (Conditional Statements)
 - Switch Case (Conditional Statements)
 - While Loop (Loops)
